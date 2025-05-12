@@ -1,4 +1,4 @@
-# 🏠 Real Estate Price Heatmap (UIC)
+# 🏠 Real Estate Price Map (UIC)
 
 An interactive browser-based map that visualizes Chicago rental prices, trend scores, and proximity to Divvy bike stations. It helps users explore affordable neighborhoods, evaluate investment potential, and understand how access to transport relates to real estate value.
 
